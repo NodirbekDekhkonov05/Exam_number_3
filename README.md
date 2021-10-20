@@ -8,6 +8,6 @@
  
  ## Dasturimiz keyingi sahifasi
  
- <a href="https://ibb.co/cwnJwBq"><img src="https://i.ibb.co/5kHTk0Z/Screenshot-1634720562.png" alt="Screenshot-1634720562" border="0"></a>
+ <a href="https://ibb.co/cwnJwBq"><img src="https://i.ibb.co/5kHTk0Z/Screenshot-1634720562.png" alt="Screenshot-1634720562" style ="float: left", margin-right: 10px;" width="200" border="0"></a>
  
  Bu sahifada biz valyutani ayriboshlash va uni qancha qiymatda chiqqanligini ko'rsatib ketdik.
